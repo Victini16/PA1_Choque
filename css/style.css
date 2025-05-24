@@ -1,10 +1,10 @@
 :root {
-    --color-primario: #00b300; /* Azul vibrante */
-    --color-secundario: #f1f1f1; /* Gris claro */
-    --color-texto: #333; /* Gris oscuro para el texto */
-    --color-fondo: #ffffff; /* Blanco */
-    --color-footer: #007946; /* Gris muy oscuro */
-    --borde-radio: 8px; /* Radio de borde para elementos */
+    --color-primario: #00b300;
+    --color-secundario: #f1f1f1;
+    --color-texto: #333;
+    --color-fondo: #ffffff;
+    --color-footer: #007946;
+    --borde-radio: 8px;
 }
 
 * {
